@@ -3,5 +3,5 @@ Office Administrator is a web based ERP software designed to keep record of all 
 
 
 How to run the project-
-* Create database and tables as mentioned in "office admin Table Structure.sql".
-* Run "Home.jsp" available in web folder.
+* Create database from officeadmindb.sql file.
+* Run the .war file.
